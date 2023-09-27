@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (WindowsProject1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  AudioPlayer.cpp
+C:\Games\labs\WindowsProject1\WindowsProject1\AudioPlayer.cpp(115,40): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  WindowsProject1.vcxproj -> C:\Games\labs\WindowsProject1\x64\Debug\AudioPlayer.exe
